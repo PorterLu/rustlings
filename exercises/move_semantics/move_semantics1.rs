@@ -15,11 +15,11 @@ fn main() {
 }
 
 fn fill_vec(vec: Vec<i32>) -> Vec<i32> {
-    let mut vec = vec;
+    let mut tmp = vec;
+    
+    tmp.push(22);
+    tmp.push(44);
+    tmp.push(66);
 
-    vec.push(22);
-    vec.push(44);
-    vec.push(66);
-
-    vec
+    tmp
 }

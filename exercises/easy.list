@@ -11,3 +11,13 @@
 11.struct   🐼
 12.trait    🐼
 13.move     🐼
+14.generic  🐼
+15.clippy   🐼
+16.hashmap  🐼
+17.macro    🐼
+18.thread   🐼
+19.lifetime 🐼
+20.error    🐼
+21.standard 🐼
+22.conversion 🐼
+
